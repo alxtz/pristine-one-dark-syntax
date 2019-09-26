@@ -1,10 +1,10 @@
 {
   "name": "pristine-one-dark-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "",
   "keywords": [ "syntax", "theme" ],
-  "repository": "git@github.com:alxtz/pristine-one-dark-syntax.git",
+  "repository": "https://github.com/alxtz/pristine-one-dark-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
